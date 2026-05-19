@@ -1,0 +1,8 @@
+{
+  "name": "Psychology in Tampere Portfolio",
+  "description": "Complete professional replication of the Psychology in Tampere website for Marjaana Laakso, featuring therapy and counseling services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
